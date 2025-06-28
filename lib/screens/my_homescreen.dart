@@ -14,7 +14,7 @@ class _MyHomescreenState extends State<MyHomescreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.blue.shade400,
+      backgroundColor: Colors.blue.shade200,
       appBar: AppBar(
         title: Text("Dice app", style: TextStyle(color: Colors.white),),
         backgroundColor: Colors.blue,
